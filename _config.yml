@@ -1,0 +1,30 @@
+title: Peter Plantinga
+author:
+  name: Peter Plantinga
+  email: plantinga.peter@protonmail.com
+description: >-
+  © Peter Plantinga 2020
+url: "http://massey-plantinga.com" # e.g. http://example.com
+
+minima:
+  skin: 'dark'
+  social_links:
+    twitter: comPeterScience
+    github: pplantinga
+
+collections:
+  - projects
+  - paintings
+
+# Exclude from processing.
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
