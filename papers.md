@@ -8,6 +8,12 @@ This page lists some of the things I've been involved in writing.
 
 Graduate papers
 ---------------
+Mirco Ravanelli, Titouan Parcollet, Peter Plantinga, Aku Rouhe, Samuele Cornell,
+Loren Lugosch, Cem Subakan, Nauman Dawalatabad, Abdelwahab Heba, Jianyuan Zhong,
+Ju-Chieh Chou, Sung-Lin Yeh, Szu-Wei Fu, Chien-Feng Liao, Elena Rastorgueva,
+François Grondin, William Aris, Hwidong Na, Yan Gao, Renato De Mori, Yoshua Bengio,
+"SpeechBrain: A General-Purpose Speech Toolkit."
+[https://arxiv.org/abs/2106.04624](https://arxiv.org/abs/2106.04624)
 
 Peter Plantinga, Deblin Bagchi, Eric Fosler-Lussier, "Phonetic Feedback
 For Speech Enhancement With and Without Parallel Speech Data." ICASSP 2020
