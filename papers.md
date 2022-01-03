@@ -8,6 +8,10 @@ This page lists some of the things I've been involved in writing.
 
 Graduate papers
 ---------------
+Peter Plantinga, Deblin Bagchi, Eric Fosler-Lussier, "Perceptual Loss with
+Recognition Model for Single-Channel Enhancement and Robust ASR."
+[https://arxiv.org/abs/2112.06068](https://arxiv.org/abs/2112.06068)
+
 Mirco Ravanelli, Titouan Parcollet, Peter Plantinga, Aku Rouhe, Samuele Cornell,
 Loren Lugosch, Cem Subakan, Nauman Dawalatabad, Abdelwahab Heba, Jianyuan Zhong,
 Ju-Chieh Chou, Sung-Lin Yeh, Szu-Wei Fu, Chien-Feng Liao, Elena Rastorgueva,
