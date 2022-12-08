@@ -1,9 +1,8 @@
 ---
 name: SpeechBrain
-image_url: /assets/images/speechbrain.png
+image_url: /assets/images/speechbrain.svg
 external_url: https://speechbrain.github.io/
 ---
 
-* Organized by Mirco Ravanelli
 * Developed core architecture and augmentation module.
 * Designed the logo (shown here).
