@@ -2,12 +2,9 @@
 layout: front
 ---
 
-Peter's academic research interests focus primarily on speech
-separation and enhancement, robust speech recognition, natural
-language processing, and other topics in the field of machine learning.
+Peter's academic research interests focus primarily on robust speech recognition, continual learning, reading verification, explainable and responsible AI, speech technology for healthcare, and other topics in the field of speech processing with machine learning.
 
-Peter's non-academic research interests include social justice, politics,
-ethics, religion, technology, and combinations of the above.
+Peter's non-academic research interests include critical disability theory, Pragmatism, Buddhism, postcolonialism, science fiction and any combinations of thesetopics.
 
-Peter's non-research interests include playing the cello, playing ultimate,
-playing board games, playing in nature, and general playfulness.
+Peter's non-research interests include playing board games, playing ultimate,
+playing in nature, playing the cello, and general playfulness.
