@@ -4,7 +4,18 @@ title: Papers
 permalink: /papers/
 ---
 
-This page lists some of the things I've been involved in writing.
+Peter Plantinga, Jaekwon Yoo, Abenezer Girma, Chandra Dhir, "Parameter Averaging is All You Need to Prevent Forgetting.” Proceedings of IEEE Workshop on Spoken Language Technologies
+(SLT), 2024.
+
+Alexander Johnson, Peter Plantinga, Pheobe Sun, Swaroop Gadiyaram, Abenezer Girma, Ahmad Emami, ”Efficient SQA from Long Audio Contexts: A Policy-Driven Approach.” INTERSPEECH 2024. [https://www.isca-archive.org/interspeech_2024/johnson24_interspeech.html](https://www.isca-archive.org/interspeech_2024/johnson24_interspeech.html)
+
+Mirco Ravanelli, Titouan Parcollet, Adel Moumen, Sylvain de Langen, Cem Subakan, Peter Plantinga, et al. ”Open-Source Conversational AI with SpeechBrain 1.0.” [https://arxiv.org/abs/2407.00463](https://arxiv.org/abs/2407.00463)
+
+Plantinga, Peter, Jaekwon Yoo, and Chandra Dhir. "SYSTEMS AND METHODS FOR CONTINUAL LEARNING FOR END TO-END AUTOMATIC SPEECH RECOGNITION." U.S. Patent Application No. 18/442,974.
+
+Peter Plantinga, Jaekwon Yoo, and Chandra Dhir, ”Continual Learning for End-to-End ASR by Averaging Domain Experts.” [https://arxiv.org/abs/2305.09681](https://arxiv.org/abs/2305.09681)
+
+Aku Rouhe, Peter Plantinga, Titouan Parcollet, and Mirco Ravanelli, “A SpeechBrain for Everything: State of the PyTorch Ecosystem for Speech Technologies.” Tutorial at INTERSPEECH, 2022.
 
 Graduate papers
 ---------------
