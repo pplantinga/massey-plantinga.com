@@ -23,6 +23,8 @@ Peter Plantinga, Deblin Bagchi, Eric Fosler-Lussier, "Perceptual Loss with
 Recognition Model for Single-Channel Enhancement and Robust ASR."
 [https://arxiv.org/abs/2112.06068](https://arxiv.org/abs/2112.06068)
 
+Szu-Wei Fu, Cheng Yu, Tsun-An Hsieh, Peter Plantinga, Mirco Ravanelli, Xugang Lu, and Yu Tsao, "MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement," Proceedings of INTERSPEECH, 2021. [https://arxiv.org/abs/2104.03538](https://arxiv.org/abs/2104.03538)
+
 Mirco Ravanelli, Titouan Parcollet, Peter Plantinga, Aku Rouhe, Samuele Cornell,
 Loren Lugosch, Cem Subakan, Nauman Dawalatabad, Abdelwahab Heba, Jianyuan Zhong,
 Ju-Chieh Chou, Sung-Lin Yeh, Szu-Wei Fu, Chien-Feng Liao, Elena Rastorgueva,
