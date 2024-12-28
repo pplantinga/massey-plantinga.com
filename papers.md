@@ -38,7 +38,7 @@ François Grondin, William Aris, Hwidong Na, Yan Gao, Renato De Mori, Yoshua Ben
 "SpeechBrain: A General-Purpose Speech Toolkit."
 [https://arxiv.org/abs/2106.04624](https://arxiv.org/abs/2106.04624)
 
-Mirco Ravanelli, Titouan Parcollet, Peter Plantinga, Aku Rouhe, Samuele Cornell, Loren Lugosch, Cem Subakan, Nauman Dawalatabad, Abdelwahab Heba, Jianyuan Zhong, Ju-Chieh Chou, Sung-Lin Yeh, Szu-Wei Fu, Chien-Feng Liao, Elena Rastorgueva, François Grondin, and William Aris, “SpeechBrain.” GitHub Repository, 2021. [https://github.com/speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
+Mirco Ravanelli, Titouan Parcollet, **Peter Plantinga**, Aku Rouhe, Samuele Cornell, Loren Lugosch, Cem Subakan, Nauman Dawalatabad, Abdelwahab Heba, Jianyuan Zhong, Ju-Chieh Chou, Sung-Lin Yeh, Szu-Wei Fu, Chien-Feng Liao, Elena Rastorgueva, François Grondin, and William Aris, “SpeechBrain.” GitHub Repository, 2021. [https://github.com/speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
 
 **Peter Plantinga**, Aku Rouhe, "HyperPyYAML." GitHub Repository, 2021. [https://github.com/speechbrain/HyperPyYAML](https://github.com/speechbrain/HyperPyYAML)
 
