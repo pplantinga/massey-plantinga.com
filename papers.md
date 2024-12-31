@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 
 **Peter Plantinga**, Jaekwon Yoo, Abenezer Girma, Chandra Dhir, "Parameter Averaging is All You Need to Prevent Forgetting.” Proceedings of IEEE Workshop on Spoken Language Technologies
-(SLT), 2024. [Paper PDF](/assets/PARAMETER_AVERAGING_IS_ALL_YOU_NEED_TO_PREVENT_FORGETTING.pdf)
+(SLT), 2024. [Paper PDF](/assets/parameter_averaging_forgetting.pdf)
 
 Alexander Johnson, **Peter Plantinga**, Pheobe Sun, Swaroop Gadiyaram, Abenezer Girma, Ahmad Emami, ”Efficient SQA from Long Audio Contexts: A Policy-Driven Approach.” INTERSPEECH 2024. [https://www.isca-archive.org/interspeech_2024/johnson24_interspeech.html](https://www.isca-archive.org/interspeech_2024/johnson24_interspeech.html)
 
