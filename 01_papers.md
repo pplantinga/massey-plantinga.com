@@ -4,20 +4,28 @@ title: Papers
 permalink: /papers/
 ---
 
-**Peter Plantinga**, Jaekwon Yoo, Abenezer Girma, Chandra Dhir, "Parameter Averaging is All You Need to Prevent Forgetting.” Proceedings of IEEE Workshop on Spoken Language Technologies
-(SLT), 2024. [Paper PDF](/assets/parameter_averaging_forgetting.pdf)
+**Peter Plantinga**, Jaekwon Yoo, Abenezer Girma, Chandra Dhir,
+"Parameter Averaging is All You Need to Prevent Forgetting.” SLT 2024.
+[Paper PDF](/assets/pdf/parameter-averaging-forgetting.pdf)
 
-Alexander Johnson, **Peter Plantinga**, Pheobe Sun, Swaroop Gadiyaram, Abenezer Girma, Ahmad Emami, ”Efficient SQA from Long Audio Contexts: A Policy-Driven Approach.” INTERSPEECH 2024. [https://www.isca-archive.org/interspeech_2024/johnson24_interspeech.html](https://www.isca-archive.org/interspeech_2024/johnson24_interspeech.html)
+Alexander Johnson, **Peter Plantinga**, Pheobe Sun, Swaroop Gadiyaram, Abenezer Girma,
+Ahmad Emami, ”Efficient SQA from Long Audio Contexts: A Policy-Driven Approach.” INTERSPEECH 2024.
+[https://www.isca-archive.org/interspeech_2024/johnson24_interspeech.html](https://www.isca-archive.org/interspeech_2024/johnson24_interspeech.html)
 
-Mirco Ravanelli, Titouan Parcollet, Adel Moumen, Sylvain de Langen, Cem Subakan, **Peter Plantinga**, et al. ”Open-Source Conversational AI with SpeechBrain 1.0.” Journal of Machine Learning Research (JMLR), 2024. [https://arxiv.org/abs/2407.00463](https://arxiv.org/abs/2407.00463)
+Mirco Ravanelli, Titouan Parcollet, Adel Moumen, Sylvain de Langen, Cem Subakan,
+**Peter Plantinga**, et al. ”Open-Source Conversational AI with SpeechBrain 1.0.”
+Journal of Machine Learning Research (JMLR), 2024.
+[https://arxiv.org/abs/2407.00463](https://arxiv.org/abs/2407.00463)
 
-**Peter Plantinga**, Jaekwon Yoo, and Chandra Dhir, "Systems and Methods For Continual Learning For End-to-End Automatic Speech Recognition." U.S. Patent Application No. 18/442,974, 2024.
+**Peter Plantinga**, Jaekwon Yoo, and Chandra Dhir, "Systems and Methods For Continual Learning
+For End-to-End Automatic Speech Recognition." U.S. Patent Application No. 18/442,974, 2024.
 
-**Peter Plantinga**, Jaekwon Yoo, and Chandra Dhir, ”Continual Learning for End-to-End ASR by Averaging Domain Experts.” [https://arxiv.org/abs/2305.09681](https://arxiv.org/abs/2305.09681)
+**Peter Plantinga**, Jaekwon Yoo, and Chandra Dhir, ”Continual Learning for End-to-End ASR
+by Averaging Domain Experts.” [https://arxiv.org/abs/2305.09681](https://arxiv.org/abs/2305.09681)
 
-Siva Tanuku, Matthew Ray, Rachel Brinda, Liping Wu, Tiffany Wagner, Bahvya Potluri, Khyati Sinha, Serdar Kuyuk, Anand Joglekar, **Peter Plantinga**, Kai Ni. "System and Method for Real-Time Identification of Dissatisfaction Data." U.S. Patent Application No. 17/992,269, 2023.
-
-Aku Rouhe, **Peter Plantinga**, Titouan Parcollet, and Mirco Ravanelli, “A SpeechBrain for Everything: State of the PyTorch Ecosystem for Speech Technologies.” Tutorial at INTERSPEECH, 2022.
+Siva Tanuku, Matthew Ray, Rachel Brinda, Liping Wu, Tiffany Wagner, Bahvya Potluri, Khyati Sinha,
+Serdar Kuyuk, Anand Joglekar, **Peter Plantinga**, Kai Ni. "System and Method for Real-Time
+Identification of Dissatisfaction Data." U.S. Patent Application No. 17/992,269, 2023.
 
 Graduate papers
 ---------------
@@ -29,7 +37,9 @@ Recognition Model for Single-Channel Enhancement and Robust ASR."
 PhD Dissertation, The Ohio State University, 2021.
 [http://rave.ohiolink.edu/etdc/view?acc_num=osu1620686523241649](http://rave.ohiolink.edu/etdc/view?acc_num=osu1620686523241649)
 
-Szu-Wei Fu, Cheng Yu, Tsun-An Hsieh, **Peter Plantinga**, Mirco Ravanelli, Xugang Lu, and Yu Tsao, "MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement," Proceedings of INTERSPEECH, 2021. [https://arxiv.org/abs/2104.03538](https://arxiv.org/abs/2104.03538)
+Szu-Wei Fu, Cheng Yu, Tsun-An Hsieh, **Peter Plantinga**, Mirco Ravanelli, Xugang Lu, and Yu Tsao,
+"MetricGAN+: An Improved Version of MetricGAN for Speech Enhancement," Proceedings of INTERSPEECH, 2021.
+[https://arxiv.org/abs/2104.03538](https://arxiv.org/abs/2104.03538)
 
 Mirco Ravanelli, Titouan Parcollet, **Peter Plantinga**, Aku Rouhe, Samuele Cornell,
 Loren Lugosch, Cem Subakan, Nauman Dawalatabad, Abdelwahab Heba, Jianyuan Zhong,
@@ -38,9 +48,14 @@ François Grondin, William Aris, Hwidong Na, Yan Gao, Renato De Mori, Yoshua Ben
 "SpeechBrain: A General-Purpose Speech Toolkit."
 [https://arxiv.org/abs/2106.04624](https://arxiv.org/abs/2106.04624)
 
-Mirco Ravanelli, Titouan Parcollet, **Peter Plantinga**, Aku Rouhe, Samuele Cornell, Loren Lugosch, Cem Subakan, Nauman Dawalatabad, Abdelwahab Heba, Jianyuan Zhong, Ju-Chieh Chou, Sung-Lin Yeh, Szu-Wei Fu, Chien-Feng Liao, Elena Rastorgueva, François Grondin, and William Aris, “SpeechBrain.” GitHub Repository, 2021. [https://github.com/speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
+Mirco Ravanelli, Titouan Parcollet, **Peter Plantinga**, Aku Rouhe, Samuele Cornell,
+Loren Lugosch, Cem Subakan, Nauman Dawalatabad, Abdelwahab Heba, Jianyuan Zhong,
+Ju-Chieh Chou, Sung-Lin Yeh, Szu-Wei Fu, Chien-Feng Liao, Elena Rastorgueva,
+François Grondin, and William Aris, “SpeechBrain.” GitHub Repository, 2021.
+[https://github.com/speechbrain/speechbrain](https://github.com/speechbrain/speechbrain)
 
-**Peter Plantinga**, Aku Rouhe, "HyperPyYAML." GitHub Repository, 2021. [https://github.com/speechbrain/HyperPyYAML](https://github.com/speechbrain/HyperPyYAML)
+**Peter Plantinga**, Aku Rouhe, "HyperPyYAML." GitHub Repository, 2021.
+[https://github.com/speechbrain/HyperPyYAML](https://github.com/speechbrain/HyperPyYAML)
 
 **Peter Plantinga**, Deblin Bagchi, Eric Fosler-Lussier, "Phonetic Feedback
 For Speech Enhancement With and Without Parallel Speech Data." ICASSP 2020
@@ -57,8 +72,6 @@ Mimic Architectures for Residual Network Based Spectral Mapping." SLT 2018
 Deblin Bagchi, **Peter Plantinga**, Adam Stiff, Eric Fosler-Lussier, "Spectral
 Feature Mapping with Mimic Loss for Robust Speech Recognition." ICASSP 2018
 [https://arxiv.org/abs/1803.09816](https://arxiv.org/abs/1803.09816)
-
-**Peter Plantinga**, "Predicting Prosodic Stress Using Recurrent Phoneme and Grapheme Embeddings."
 
 Undergraduate papers
 --------------------
@@ -77,6 +90,6 @@ Electrons from Weak Recollisions in Non-Sequential Double Ionization,"
 J. Phys. B: At. Mol. Opt. Phys. 41 (2008) 211002.
 [http://iopscience.iop.org/0953-4075/41/21/211002](http://iopscience.iop.org/0953-4075/41/21/211002)*
 
-\* *This Fast Track Communication was selected for inclusion in IOP Select,
+\**This Fast Track Communication was selected for inclusion in IOP Select,
 [http://select.iop.org](http://select.iop.org) and was highlighted in 
 Europhysics News 40, Number 1, page 15, (2009).*
