@@ -4,6 +4,8 @@ title: Presentations
 permalink: /presentations/
 ---
 
+**Peter Plantinga**, "SpeechBrain Tutorial: Parkinson's Disease Detection." Montreal Open Tool Symposium (MOTS), 2025. [Colab Notebook](https://colab.research.google.com/drive/1kiKzj3pfUgJzE7zVoDzPOhMF1fwx7YDn?usp=sharing)
+
 **Peter Plantinga**, "Parameter Averaging is All You Need to Prevent Forgetting." Conversational AI Reading Group at Mila, 2024.
 [Slides PDF](/assets/pdf/conversational-ai-reading-group-2024.pdf)
 
