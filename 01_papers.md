@@ -4,6 +4,15 @@ title: Papers
 permalink: /papers/
 ---
 
+**Peter Plantinga**, Roozbeh Sattari, Karine Marcotte, Carla Di Gironimo, Madeleine Sharp, Liziane Bouvier,
+Maiya Geddes, Ingrid Verduyckt, Étienne de Villers-Sidani, Mirco Ravanelli, Denise Klein
+"Comparison of Speech Tasks in Human Expert and Machine Detection of Parkinson's Disease." SMASH 2025
+[https://arxiv.org/abs/2510.07299](https://arxiv.org/abs/2510.07299)
+
+**Peter Plantinga**, Jen-Kai Chen, Roozbeh Sattari, Mirco Ravanelli,
+"From Black Box to Biomarker: Sparse Autoencoders for Interpreting Speech Models of Parkinson's Disease."
+[https://arxiv.org/abs/2507.16836](https://arxiv.org/abs/2507.16836)
+
 **Peter Plantinga**, Briac Cordelle, Dominique Louër, Mirco Ravanelli, Denise Klein,
 "Does Language Matter for Early Detection of Parkinson's Disease from Speech?" MLSP 2025.
 [https://arxiv.org/abs/2507.16832](https://arxiv.org/abs/2507.16832)
