@@ -4,6 +4,18 @@ title: Papers
 permalink: /papers/
 ---
 
+**Peter Plantinga**\*, Charlotte Moore\*, Peter Donhauser, Krista Byers-Heinlein, Denise Klein,
+"Lost but not Erased: Finding Traces of a Forgotten Language in Neural Speech Models."
+[https://arxiv.org/abs/2608.25976](https://arxiv.org/abs/2608.25976)  
+_\*contributed equally_
+
+**Peter Plantinga**, Jaekwon Yoo, and Chandra Dhir, "Systems and Methods For Continual Learning
+For End-to-End Automatic Speech Recognition." U.S. Patent No. US-12706085-B2, 2026.
+
+Siva Tanuku, Matthew Ray, Rachel Brinda, Liping Wu, Tiffany Wagner, Bahvya Potluri, Khyati Sinha,
+Serdar Kuyuk, Anand Joglekar, **Peter Plantinga**, Kai Ni. "System and Method for Real-Time
+Identification of Dissatisfaction Data." U.S. Patent No. US-12682919-B2, 2026.
+
 **Peter Plantinga**, Roozbeh Sattari, Karine Marcotte, Carla Di Gironimo, Madeleine Sharp, Liziane Bouvier,
 Maiya Geddes, Ingrid Verduyckt, Étienne de Villers-Sidani, Mirco Ravanelli, Denise Klein
 "Comparison of Speech Tasks in Human Expert and Machine Detection of Parkinson's Disease." SMASH 2025
@@ -30,15 +42,9 @@ Mirco Ravanelli, Titouan Parcollet, Adel Moumen, Sylvain de Langen, Cem Subakan,
 Journal of Machine Learning Research (JMLR), 2024.
 [https://arxiv.org/abs/2407.00463](https://arxiv.org/abs/2407.00463)
 
-**Peter Plantinga**, Jaekwon Yoo, and Chandra Dhir, "Systems and Methods For Continual Learning
-For End-to-End Automatic Speech Recognition." U.S. Patent Application No. 18/442,974, 2024.
-
 **Peter Plantinga**, Jaekwon Yoo, and Chandra Dhir, "Continual Learning for End-to-End ASR
 by Averaging Domain Experts." [https://arxiv.org/abs/2305.09681](https://arxiv.org/abs/2305.09681)
 
-Siva Tanuku, Matthew Ray, Rachel Brinda, Liping Wu, Tiffany Wagner, Bahvya Potluri, Khyati Sinha,
-Serdar Kuyuk, Anand Joglekar, **Peter Plantinga**, Kai Ni. "System and Method for Real-Time
-Identification of Dissatisfaction Data." U.S. Patent Application No. 17/992,269, 2023.
 
 Graduate papers
 ---------------
